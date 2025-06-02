@@ -478,7 +478,7 @@ async def about_callback(client: Client, callback_query: CallbackQuery):
             ),
         ],
         [
-            InlineKeyboardButton(text="[ ʙʀᴏᴛʜᴇʀ ]", url=f"https://t.me/smartness_to_hai"),
+            InlineKeyboardButton(text="[ ʙʀᴏᴛʜᴇʀ ]", url=f"https://t.me/NOBITA_XD1"),
             InlineKeyboardButton(text="[ ᴄʜᴀɴɴᴇʟ ]", url=f"https://t.me/MUSIC_BOT_UPDATE"),
         ],
         [
